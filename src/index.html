@@ -7,9 +7,33 @@
     <title>Document</title>
   </head>
   <body>
-    <include src="./partials/navBtn.html"></include>
-    <include src="./partials/form.html"></include>
+    <div class="calendar">
+      <div class="date-style">
+        День тижня:
+        <div class="date-day">0</div>
+      </div>
+      <div class="date-style">
+        День місяця:
+        <div class="date">0</div>
+      </div>
+      <div class="date-style">
+        Місяць:
+        <div class="date-month">0</div>
+      </div>
+      <div class="date-style">
+        Рік:
+        <div class="date-year">0</div>
+      </div>
+    </div>
 
-    <script src="./js.js" type="module"></script>
+    <div class="digital-clock">0</div>
+    <div class="clock">
+      <div class="clock-arrow clock-seconds__arrow"></div>
+      <div class="clock-arrow clock-minutes__arrow"></div>
+      <div class="clock-arrow clock-hours__arrow"></div>
+      <div class="clock-center"></div>
+    </div>
+
+    <script src="./index.js" type="module"></script>
   </body>
 </html>
