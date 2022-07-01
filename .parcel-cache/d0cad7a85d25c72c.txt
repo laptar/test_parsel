@@ -1,4 +1,4 @@
-4700
+4703
 76F:\JavaScript\GH-projects\test_parsel\node_modules\sass\sass.default.dart.js133001999470391035 0
 85F:\JavaScript\GH-projects\test_parsel\node_modules\css-what\lib\commonjs\stringify.js133001999452229909 0
 64F:\JavaScript\GH-projects\test_parsel\src\partials\viewCars.html133002959367135253 0
@@ -83,7 +83,7 @@
 94F:\JavaScript\GH-projects\test_parsel\node_modules\fast-glob\out\providers\matchers\partial.js133001999453246666 0
 75F:\JavaScript\GH-projects\test_parsel\node_modules\abortcontroller-polyfill133001999456609357 1
 83F:\JavaScript\GH-projects\test_parsel\node_modules\yaml\dist\resolveSeq-d03cb037.js133001999455182658 0
-42F:\JavaScript\GH-projects\test_parsel\dist133003738340326131 1
+42F:\JavaScript\GH-projects\test_parsel\dist133009839300556663 1
 50F:\JavaScript\GH-projects\test_parsel\node_modules133001999521091247 1
 69F:\JavaScript\GH-projects\test_parsel\node_modules\json5\lib\parse.js133001999452501687 0
 91F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\object-fit.js133001999513245833 0
@@ -106,7 +106,7 @@
 82F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\regions\SO.js133001999517185001 0
 75F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\watcher\src\unix133001999455862512 1
 47F:\JavaScript\GH-projects\test_parsel\README.md133001992232391847 0
-50F:\JavaScript\GH-projects\test_parsel\src\index.js133003739283700009 0
+50F:\JavaScript\GH-projects\test_parsel\src\index.js133008119208981041 0
 85F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\packager-js\src\helpers.js133001999457888922 0
 58F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel133001999520781439 1
 101F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3133001999457458708 1
@@ -132,7 +132,7 @@
 120F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed\embed2133001999469762297 1
 82F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\dist133001999455142755 1
 57F:\JavaScript\GH-projects\test_parsel\node_modules\@lezer133001999436096029 1
-41F:\JavaScript\GH-projects\test_parsel\src133003732371182238 1
+41F:\JavaScript\GH-projects\test_parsel\src133009809078028476 1
 80F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\fs\lib\browser.js.map133001999466432748 0
 64F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\level.js133001999484916353 0
 93F:\JavaScript\GH-projects\test_parsel\node_modules\posthtml-parser\dist\location-tracker.d.ts133001999447044015 0
@@ -142,7 +142,7 @@
 80F:\JavaScript\GH-projects\test_parsel\node_modules\@swc\helpers\src\_decorate.js133001999485291821 0
 78F:\JavaScript\GH-projects\test_parsel\node_modules\terser\lib\equivalent-to.js133001999456669196 0
 82F:\JavaScript\GH-projects\test_parsel\node_modules\sass\types\legacy\function.d.ts133001999474138821 0
-52F:\JavaScript\GH-projects\test_parsel\src\index.html133003732522486439 0
+52F:\JavaScript\GH-projects\test_parsel\src\index.html133009809180876127 0
 70F:\JavaScript\GH-projects\test_parsel\node_modules\terser\bin\uglifyjs133001999445395122 0
 85F:\JavaScript\GH-projects\test_parsel\node_modules\msgpackr-extract\node_modules\.bin133001999518799054 1
 80F:\JavaScript\GH-projects\test_parsel\node_modules\posthtml-render\dist\index.js133001999445476207 0
@@ -153,7 +153,7 @@
 65F:\JavaScript\GH-projects\test_parsel\node_modules\yaml\schema.js133001999456967532 0
 55F:\JavaScript\GH-projects\test_parsel\node_modules\yaml133001999468361633 1
 58F:\JavaScript\GH-projects\test_parsel\src\js\renderCars.js133002966932453020 0
-44F:\JavaScript\GH-projects\test_parsel\src\js133002948397980982 1
+44F:\JavaScript\GH-projects\test_parsel\src\js133008071347316689 1
 97F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133001999470553780 0
 89F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\core\src\public\BundleGraph.js133001999478761349 0
 62F:\JavaScript\GH-projects\test_parsel\node_modules\is-arrayish133001999470984318 1
@@ -161,6 +161,9 @@
 60F:\JavaScript\GH-projects\test_parsel\node_modules\callsites133001999451888743 1
 73F:\JavaScript\GH-projects\test_parsel\node_modules\source-map\lib\util.js133001999447273407 0
 47F:\JavaScript\GH-projects\test_parsel\src\js.js133002921169640176 0
+49F:\JavaScript\GH-projects\test_parsel\src\main.js133009840010653806 0
+89F:\JavaScript\GH-projects\test_parsel\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133001999484451547 0
+73F:\JavaScript\GH-projects\test_parsel\node_modules\htmlnano\.eslintignore133001999447642421 0
 78F:\JavaScript\GH-projects\test_parsel\node_modules\@lezer\common\dist\mix.d.ts133001999471087223 0
 86F:\JavaScript\GH-projects\test_parsel\node_modules\css-tree\lib\generator\sourceMap.js133001999482906092 0
 103F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\keyboardevent-location.js133001999509433978 0
@@ -189,6 +192,15 @@
 95F:\JavaScript\GH-projects\test_parsel\node_modules\@swc\helpers\lib\_assert_this_initialized.js133001999453622515 0
 96F:\JavaScript\GH-projects\test_parsel\node_modules\fast-glob\out\providers\matchers\matcher.d.ts133001999463435402 0
 59F:\JavaScript\GH-projects\test_parsel\node_modules\@nodelib133001999435981809 1
+85F:\JavaScript\GH-projects\test_parsel\node_modules\svgo\plugins\removeRasterImages.js133001999465062927 0
+48F:\JavaScript\GH-projects\test_parsel\src\js\api133008071499565186 1
+83F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\core\lib\ParcelConfig.js133001999485752487 0
+75F:\JavaScript\GH-projects\test_parsel\node_modules\entities\lib\decode.d.ts133001999457077247 0
+70F:\JavaScript\GH-projects\test_parsel\node_modules\picocolors\types.ts133001999446924340 0
+96F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133001999457615518 0
+126F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory133001999485868841 1
+108F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133001999476257570 0
+75F:\JavaScript\GH-projects\test_parsel\node_modules\node-addon-api\README.md133001999453837252 0
 62F:\JavaScript\GH-projects\test_parsel\node_modules\ansi-styles133001999452631459 1
 98F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133001999509748040 0
 104F:\JavaScript\GH-projects\test_parsel\node_modules\abortcontroller-polyfill\dist\polyfill-patch-fetch.js133001999454855987 0
@@ -215,6 +227,7 @@
 101F:\JavaScript\GH-projects\test_parsel\node_modules\@swc\helpers\src\_class_apply_descriptor_update.js133001999483615317 0
 86F:\JavaScript\GH-projects\test_parsel\node_modules\dom-serializer\lib\esm\package.json133001999450220379 0
 56F:\JavaScript\GH-projects\test_parsel\src\js\saleForm.js133002935573333358 0
+57F:\JavaScript\GH-projects\test_parsel\src\js\api\swapi.js133008120481349370 0
 72F:\JavaScript\GH-projects\test_parsel\node_modules\braces\lib\compile.js133001999445405099 0
 105F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133001999455019677 0
 56F:\JavaScript\GH-projects\test_parsel\node_modules\chalk133001999452451821 1
@@ -266,15 +279,15 @@
 63F:\JavaScript\GH-projects\test_parsel\node_modules\browserslist133001999454836044 1
 71F:\JavaScript\GH-projects\test_parsel\node_modules\postcss-value-parser133001999447034044 1
 59F:\JavaScript\GH-projects\test_parsel\node_modules\chokidar133001999453557715 1
-62F:\JavaScript\GH-projects\test_parsel\node_modules\cosmiconfig133001999460867418 1
-94F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\workers\src\threads\ThreadsChild.js133001999465112811 0
-66F:\JavaScript\GH-projects\test_parsel\node_modules\queue-microtask133001999445956910 1
 69F:\JavaScript\GH-projects\test_parsel\node_modules\chrome-trace-event133001999452209967 1
 61F:\JavaScript\GH-projects\test_parsel\node_modules\color-name133001999450090743 1
 73F:\JavaScript\GH-projects\test_parsel\node_modules\is-arrayish\.npmignore133001999468617903 0
 60F:\JavaScript\GH-projects\test_parsel\node_modules\commander133001999452812779 1
 78F:\JavaScript\GH-projects\test_parsel\node_modules\nan\nan_persistent_12_inl.h133001999449586397 0
 120F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed\embed2133001999466445390 1
+62F:\JavaScript\GH-projects\test_parsel\node_modules\cosmiconfig133001999460867418 1
+94F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\workers\src\threads\ThreadsChild.js133001999465112811 0
+66F:\JavaScript\GH-projects\test_parsel\node_modules\queue-microtask133001999445956910 1
 84F:\JavaScript\GH-projects\test_parsel\node_modules\fast-glob\out\readers\stream.d.ts133001999466445390 0
 65F:\JavaScript\GH-projects\test_parsel\node_modules\node-addon-api133001999453652438 1
 76F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\utils\src\path.js133001999475306583 0
@@ -430,17 +443,17 @@
 79F:\JavaScript\GH-projects\test_parsel\node_modules\css-what\lib\es\stringify.js133001999452501687 0
 56F:\JavaScript\GH-projects\test_parsel\node_modules\json5133001999455277986 1
 71F:\JavaScript\GH-projects\test_parsel\node_modules\msgpackr\unpack.d.ts133001999453067148 0
-53F:\JavaScript\GH-projects\test_parsel\dist\index.html133003733963170060 0
-69F:\JavaScript\GH-projects\test_parsel\node_modules\js-tokens\index.js133001999444448371 0
-85F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\dist\lib\supported.js133001999517529422 0
-84F:\JavaScript\GH-projects\test_parsel\node_modules\postcss-value-parser\package.json133001999446904395 0
-101F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133001999464868328 0
-79F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-support\README.md133001999446824606 0
-68F:\JavaScript\GH-projects\test_parsel\node_modules\lines-and-columns133001999448025319 1
 73F:\JavaScript\GH-projects\test_parsel\node_modules\@jridgewell\source-map133001999470171626 1
 96F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\iframe-seamless.js133001999508550911 0
 67F:\JavaScript\GH-projects\test_parsel\node_modules\svgo\lib\xast.js133001999476671310 0
 87F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\canvas.js133001999482952564 0
+53F:\JavaScript\GH-projects\test_parsel\dist\index.html133009836113247812 0
+69F:\JavaScript\GH-projects\test_parsel\node_modules\js-tokens\index.js133001999444448371 0
+85F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\dist\lib\supported.js133001999517529422 0
+84F:\JavaScript\GH-projects\test_parsel\node_modules\postcss-value-parser\package.json133001999446904395 0
+101F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133001999464868328 0
+68F:\JavaScript\GH-projects\test_parsel\node_modules\lines-and-columns133001999448025319 1
+79F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-support\README.md133001999446824606 0
 55F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb133001999486027915 1
 89F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\dist\unpacker\browsers.js133001999479700105 0
 107F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\watcher\prebuilds\win32-x64\node.napi.glibc.node133001999477893226 0
@@ -556,8 +569,8 @@
 74F:\JavaScript\GH-projects\test_parsel\node_modules\.bin\node-gyp-build.ps1133001999518785667 0
 100F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\css-media-scripting.js133001999491271873 0
 71F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\core\LICENSE133001999466600701 0
-70F:\JavaScript\GH-projects\test_parsel\node_modules\regenerator-runtime133001999446076607 1
 69F:\JavaScript\GH-projects\test_parsel\node_modules\msgpackr\stream.js133001999449342483 0
+70F:\JavaScript\GH-projects\test_parsel\node_modules\regenerator-runtime133001999446076607 1
 95F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133001999465691769 0
 75F:\JavaScript\GH-projects\test_parsel\node_modules\picocolors\picocolors.js133001999446086585 0
 64F:\JavaScript\GH-projects\test_parsel\node_modules\yaml\util.mjs133001999465191729 0
@@ -642,6 +655,7 @@
 62F:\JavaScript\GH-projects\test_parsel\node_modules\xxhash-wasm133001999449232761 1
 90F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\utils\test\prettifyTime.test.js133001999475504431 0
 112F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\helpers\cleanResultsFolder.js133001999446714901 0
+64F:\JavaScript\GH-projects\test_parsel\dist\index.4d6bcbeb.js.map133009839300546687 0
 74F:\JavaScript\GH-projects\test_parsel\node_modules\node-addon-api\index.js133001999450421667 0
 102F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133001999462602347 0
 80F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\workers\src\Handle.js133001999457319081 0
@@ -1237,7 +1251,6 @@
 70F:\JavaScript\GH-projects\test_parsel\node_modules\path-type\readme.md133001999446545359 0
 125F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133001999486505997 0
 76F:\JavaScript\GH-projects\test_parsel\node_modules\terser\dist\bundle.min.js133001999453047201 0
-94F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-support\register-hook-require.js133001999445476207 0
 74F:\JavaScript\GH-projects\test_parsel\node_modules\terser\bin\package.json133001999470181597 0
 94F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\dist\main.js.map133001999454970830 0
 82F:\JavaScript\GH-projects\test_parsel\node_modules\fast-glob\out\readers\stream.js133001999456343577 0
@@ -1332,14 +1345,6 @@
 73F:\JavaScript\GH-projects\test_parsel\node_modules\callsites\package.json133001999449843370 0
 83F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\graph\test\Graph.test.js133001999462472699 0
 88F:\JavaScript\GH-projects\test_parsel\node_modules\svgo\plugins\removeEmptyContainers.js133001999463285804 0
-85F:\JavaScript\GH-projects\test_parsel\node_modules\svgo\plugins\removeRasterImages.js133001999465062927 0
-83F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\core\lib\ParcelConfig.js133001999485752487 0
-75F:\JavaScript\GH-projects\test_parsel\node_modules\entities\lib\decode.d.ts133001999457077247 0
-70F:\JavaScript\GH-projects\test_parsel\node_modules\picocolors\types.ts133001999446924340 0
-96F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133001999457615518 0
-126F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory133001999485868841 1
-108F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133001999476257570 0
-75F:\JavaScript\GH-projects\test_parsel\node_modules\node-addon-api\README.md133001999453837252 0
 76F:\JavaScript\GH-projects\test_parsel\node_modules\@jridgewell\trace-mapping133001999468329927 1
 86F:\JavaScript\GH-projects\test_parsel\node_modules\svgo\plugins\removeScriptElement.js133001999465181761 0
 106F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133001999486207545 0
@@ -1418,6 +1423,7 @@
 76F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-js\lib\util.js133001999447965472 0
 84F:\JavaScript\GH-projects\test_parsel\node_modules\postcss-value-parser\lib\parse.js133001999446026740 0
 76F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\fs-search\LICENSE133001999457811692 0
+94F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-support\register-hook-require.js133001999445476207 0
 81F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-support\register.js133001999445672640 0
 74F:\JavaScript\GH-projects\test_parsel\node_modules\browserslist\index.d.ts133001999454985459 0
 160F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\dist.js133001999471686542 0
@@ -1429,7 +1435,6 @@
 89F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\fontface.js133001999503812567 0
 68F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-js\lib133001999447755835 1
 78F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-js\lib\base64.js133001999445481708 0
-87F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\diagnostic\lib\diagnostic.js133001999462353809 0
 74F:\JavaScript\GH-projects\test_parsel\node_modules\source-map-js\README.md133001999449012956 0
 84F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\utils\src\prettifyTime.js133001999475405673 0
 98F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\optimizer-terser\src\TerserOptimizer.js133001999456453285 0
@@ -1638,8 +1643,8 @@
 83F:\JavaScript\GH-projects\test_parsel\node_modules\htmlnano\lib\modules\minifyJs.js133001999453602570 0
 74F:\JavaScript\GH-projects\test_parsel\node_modules\picocolors\package.json133001999446276079 0
 99F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133001999453715950 0
-69F:\JavaScript\GH-projects\test_parsel\node_modules\clone\package.json133001999468566961 0
 68F:\JavaScript\GH-projects\test_parsel\node_modules\react-refresh\cjs133001999446615161 1
+69F:\JavaScript\GH-projects\test_parsel\node_modules\clone\package.json133001999468566961 0
 72F:\JavaScript\GH-projects\test_parsel\node_modules\react-refresh\LICENSE133001999445177263 0
 85F:\JavaScript\GH-projects\test_parsel\node_modules\entities\lib\decode_codepoint.d.ts133001999456529570 0
 103F:\JavaScript\GH-projects\test_parsel\node_modules\react-refresh\cjs\react-refresh-babel.development.js133001999445832229 0
@@ -1886,6 +1891,7 @@
 101F:\JavaScript\GH-projects\test_parsel\node_modules\@swc\helpers\lib\_tagged_template_literal_loose.js133001999479126040 0
 117F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\file1.txt133001999456812942 0
 123F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed\file2.txt133001999462134391 0
+60F:\JavaScript\GH-projects\test_parsel\dist\index.4d6bcbeb.js133009839300536695 0
 130F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed\embed2\file3.txt133001999466495278 0
 97F:\JavaScript\GH-projects\test_parsel\node_modules\@babel\highlight\node_modules\has-flag\license133001999469822135 0
 103F:\JavaScript\GH-projects\test_parsel\node_modules\parcel-reporter-clean-dist\test\fixtures\files\embed133001999465141851 1
@@ -2152,7 +2158,7 @@
 97F:\JavaScript\GH-projects\test_parsel\node_modules\caniuse-lite\data\features\mutationobserver.js133001999512908009 0
 86F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\runtime-js\lib\JSRuntime.js133001999466804122 0
 89F:\JavaScript\GH-projects\test_parsel\node_modules\csso\lib\restructure\7-mergeRuleset.js133001999445772394 0
-52F:\JavaScript\GH-projects\test_parsel\dist\view.html133003733963209953 0
+52F:\JavaScript\GH-projects\test_parsel\dist\view.html133009836113257788 0
 75F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\src\compression.cpp133001999479225488 0
 70F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\src\cursor.cpp133001999479327816 0
 67F:\JavaScript\GH-projects\test_parsel\node_modules\lmdb\src\dbi.cpp133001999479438273 0
@@ -2443,8 +2449,6 @@
 103F:\JavaScript\GH-projects\test_parsel\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133001999447855569 0
 70F:\JavaScript\GH-projects\test_parsel\node_modules\color-name\index.js133001999449743617 0
 84F:\JavaScript\GH-projects\test_parsel\node_modules\htmlparser2\lib\WritableStream.js133001999448843121 0
-89F:\JavaScript\GH-projects\test_parsel\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133001999484451547 0
-73F:\JavaScript\GH-projects\test_parsel\node_modules\htmlnano\.eslintignore133001999447642421 0
 71F:\JavaScript\GH-projects\test_parsel\node_modules\htmlnano\LICENSE.txt133001999478991230 0
 87F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\watcher\src\watchman\BSER.hh133001999457842290 0
 87F:\JavaScript\GH-projects\test_parsel\node_modules\css-tree\lib\syntax\node\Brackets.js133001999446495486 0
@@ -2701,8 +2705,8 @@
 78F:\JavaScript\GH-projects\test_parsel\node_modules\domutils\lib\index.d.ts.map133001999452798211 0
 72F:\JavaScript\GH-projects\test_parsel\node_modules\domutils\lib\index.js133001999449342483 0
 81F:\JavaScript\GH-projects\test_parsel\node_modules\domutils\lib\manipulation.d.ts133001999456569463 0
-85F:\JavaScript\GH-projects\test_parsel\node_modules\domutils\lib\manipulation.d.ts.map133001999453386311 0
 66F:\JavaScript\GH-projects\test_parsel\node_modules\clone\README.md133001999469822135 0
+85F:\JavaScript\GH-projects\test_parsel\node_modules\domutils\lib\manipulation.d.ts.map133001999453386311 0
 75F:\JavaScript\GH-projects\test_parsel\node_modules\domutils\lib\querying.js133001999449883289 0
 75F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\reporter-cli\src133001999466419724 1
 78F:\JavaScript\GH-projects\test_parsel\node_modules\domutils\lib\stringify.d.ts133001999456942609 0
@@ -4324,6 +4328,7 @@
 91F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\diagnostic\test\markdown.test.js133001999463375560 0
 87F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\diagnostic\src\diagnostic.js133001999462572425 0
 89F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133001999463682500 0
+87F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\diagnostic\lib\diagnostic.js133001999462353809 0
 108F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\css-win32-x64-msvc\parcel-css.win32-x64-msvc.node133001999480598193 0
 87F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\css-win32-x64-msvc\README.md133001999469502981 0
 67F:\JavaScript\GH-projects\test_parsel\node_modules\@parcel\css\node133001999463505320 1
@@ -4692,10 +4697,8 @@
 64F:\JavaScript\GH-projects\test_parsel\node_modules\.bin\sass.ps1133001999518795630 0
 66F:\JavaScript\GH-projects\test_parsel\node_modules\.bin\semver.ps1133001999518795630 0
 64F:\JavaScript\GH-projects\test_parsel\node_modules\.bin\svgo.ps1133001999518795630 0
-60F:\JavaScript\GH-projects\test_parsel\dist\index.975ef6c8.js133003738340306191 0
-64F:\JavaScript\GH-projects\test_parsel\dist\index.975ef6c8.js.map133003738340306191 0
-59F:\JavaScript\GH-projects\test_parsel\dist\view.b83d327a.js133003733964625373 0
-63F:\JavaScript\GH-projects\test_parsel\dist\view.b83d327a.js.map133003733964635345 0
+59F:\JavaScript\GH-projects\test_parsel\dist\view.b83d327a.js133009836113287707 0
+63F:\JavaScript\GH-projects\test_parsel\dist\view.b83d327a.js.map133009836113297681 0
 70F:\JavaScript\GH-projects\test_parsel\assets\actions-config-step-2.png133001992232471635 0
 62F:\JavaScript\GH-projects\test_parsel\assets\repo-settings.png133001992232541442 0
 55F:\JavaScript\GH-projects\test_parsel\assets\status.png133001992232551423 0
